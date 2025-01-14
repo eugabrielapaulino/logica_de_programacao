@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BBF7715-10B0-43E1-8433-074C233EC4EF}|Ex03\\Ex03.csproj|c:\\users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BBF7715-10B0-43E1-8433-074C233EC4EF}|Ex03\\Ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B3024B3-3F57-4B3F-A8C5-D8FE9FCB86FC}|ex04\\ex04.csproj|c:\\users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3024B3-3F57-4B3F-A8C5-D8FE9FCB86FC}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBF7715-10B0-43E1-8433-074C233EC4EF}|Ex03\\ex03.csproj|c:\\users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBF7715-10B0-43E1-8433-074C233EC4EF}|Ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61A3CDD2-0A01-43A0-BA4A-A6EB0DF48FC4}|ex02\\ex02.csproj|c:\\users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\ex04\\Program.cs*",
+              "RelativeToolTip": "ex04\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:15:28.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\Ex03\\Program.cs",
               "RelativeDocumentMoniker": "Ex03\\Program.cs",
-              "ToolTip": "C:\\Users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\Ex03\\Program.cs*",
-              "RelativeToolTip": "Ex03\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\Ex03\\Program.cs",
+              "RelativeToolTip": "Ex03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T22:06:10.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "ex02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:47:07.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T21:47:07.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriela.sssilva3\\source\\repos\\logica_programacao\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
@@ -64,8 +80,7 @@
               "RelativeToolTip": "ex01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:42:29.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T21:42:29.266Z"
             }
           ]
         }
